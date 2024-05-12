@@ -1,9 +1,9 @@
 package org.springframework.samples.mvc.messageconverters;
 
 import javax.validation.constraints.NotNull;
-import javax.xml.bind.annotation.XmlRootElement;
+//import javax.xml.bind.annotation.XmlRootElement;
 
-@XmlRootElement
+//@XmlRootElement
 public class JavaBean {
 	
 	@NotNull

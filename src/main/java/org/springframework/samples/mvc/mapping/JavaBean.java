@@ -1,8 +1,8 @@
 package org.springframework.samples.mvc.mapping;
 
-import javax.xml.bind.annotation.XmlRootElement;
+//import javax.xml.bind.annotation.XmlRootElement;
 
-@XmlRootElement
+// @XmlRootElement
 public class JavaBean {
 
 	private String foo = "bar";
